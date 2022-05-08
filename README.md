@@ -1,11 +1,15 @@
 - 👋 Hi, I’m @bbttko
 - 👀 I’m interested in FPGA & microcontrollers
 - 🌱 I’m currently learning how to walk
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbttko)](https://github.com/bbttko/github-readme-stats)
+
+<!--- 
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbttko&layout=compact)](https://github.com/bbttko/github-readme-stats)
+--->
+
 
 <!---
 bbttko/bbttko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
