@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bbttko
 - 👀 FPGA & microcontroller repository
-- 🌱 I’m currently learning how to walk
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbttko)](https://github.com/bbttko/github-readme-stats)
 
