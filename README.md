@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bbttko
-- 👀 FPGA & microcontroller repository
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbttko)](https://github.com/bbttko/github-readme-stats)
 
